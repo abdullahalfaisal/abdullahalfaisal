@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
+</br>
 <h3 align="center">A passionate CSE student from American International University-Bangladesh</h3>
 
-<img align ="right" alt="Faisal" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2sqX7b5_8FoPw--oO-8uzF&ust=1739478497888000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDp1I-svosDFQAAAAAdAAAAABAP">
+<img align ="right" alt="Faisal" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalfaisal" /> </p>
+</br>
+</br>
 
 - 🌱 I’m currently learning **Software Quality Assurance & Deep Leaerning**
 
