@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalfaisal" /> </p>
 
 
-- 🌱 I’m currently learning **Software Quality Assurance & Deep Leaerning**
+- 🌱 I’m currently learning **Software Quality Assurance**
 
 - 📫 How to reach me **abdullahalfaisal992@gmail.com**
 
